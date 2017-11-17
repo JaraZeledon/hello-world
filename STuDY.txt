@@ -1,0 +1,7 @@
+- Instalar SQL Server 2014
+- Configuración IIS
+- Configuración FTP
+- Configuración Firewall para conexiones remotas SQL Server
+- Instalación base de datos CREDINICSA
+- Instalación aplicación CREDINICSA
+- Configuración DNS
